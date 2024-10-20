@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.lImage{
+    height: 60px;
+    width: 100px;
+}
+.imgContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 10px;
+
+}
+.profile{
+    height: 40px;
+    width: 60px;
+}

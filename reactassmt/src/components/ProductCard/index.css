@@ -1,0 +1,14 @@
+.plant{
+    height: 200px;
+    width: 280px;
+}
+li{
+    list-style-type: none;
+}
+.buton{
+    margin:10px;
+    height: 30px;
+    width: 300px;
+    background-color:#165315;
+    color:white;
+}

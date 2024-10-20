@@ -1,0 +1,26 @@
+.thankyou{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size:cover;
+    background-color: #F0FFE5;
+    ;
+}
+hr{
+    height: 30px;
+    width: 500px;
+    color: #F0FFE5;
+}
+.head{
+    color:#165315;
+}
+
+.but{
+    height: 30px;
+    width: 300px;
+    background-color:#165315;
+    color:white;
+
+}
